@@ -31,3 +31,6 @@
 - [captcha.Pytorch](https://github.com/pprp/captcha.Pytorch)
   - A captcha recognition competition
   - Many tricks draw from classification problem
+- [pytorch-attention-mechanism](https://github.com/pprp/pytorch-attention-mechanism)
+  - Attention Modules such as se,cbam,non-local
+  - Plug and Play Module such as ASPP
