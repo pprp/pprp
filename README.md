@@ -31,6 +31,6 @@
 - [captcha.Pytorch](https://github.com/pprp/captcha.Pytorch)
   - A captcha recognition competition
   - Many tricks draw from classification problem
-- [Attention-Mechanism-in-CV](https://github.com/pprp/Attention-Mechanism-in-CV)
+- [awesome-attention-mechanism-in-cv](https://github.com/pprp/awesome-attention-mechanism-in-cv)
   - Attention Modules such as se,cbam,non-local
   - Plug and Play Module such as ASPP
