@@ -1,6 +1,6 @@
 ### Hi there 👋 this is pprp
 
-- 🌱 I’m currently learning RL, NAS, AutoML
+- 🌱 I’m currently learning NAS, AutoML
 - :smile: I’m a member of :panda_face: [GiantPandaCV](https://github.com/GiantPandaCV)
 - 📫 How to reach me: wx:topeijie (请注明来意)
 - :package: CSDN: https://blog.csdn.net/DD_PP_JJ
