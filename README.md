@@ -6,7 +6,8 @@
 - :package: CSDN: https://blog.csdn.net/DD_PP_JJ
 - :smiley: 博客园: https://www.cnblogs.com/pprp
 - 😇 zhihu: https://www.zhihu.com/people/peijieDong
-- :green_book: 公众号: GiantPandaCV 神经网络结构搜索
+- :red_circle: 公众号: GiantPandaCV 
+- :revolving_hearts: 子公众号：神经网络结构搜索
 
 ![pprp's github stats](https://github-readme-stats.vercel.app/api?username=pprp&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
