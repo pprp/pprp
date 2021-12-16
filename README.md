@@ -7,7 +7,7 @@
 - :smiley: 博客园: https://www.cnblogs.com/pprp
 - 😇 zhihu: https://www.zhihu.com/people/peijieDong
 - :panda_face: 公众号1: GiantPandaCV 
-- :revolving_hearts: 公众号2：神经网络架构搜索
+- :revolving_hearts: 公众号2: 神经网络架构搜索
 
 ![pprp's github stats](https://github-readme-stats.vercel.app/api?username=pprp&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
@@ -34,6 +34,7 @@
 - [captcha.Pytorch](https://github.com/pprp/captcha.Pytorch)
   - A captcha recognition competition
   - Many tricks draw from classification problem
-- [awesome-attention-mechanism-in-cv](https://github.com/pprp/awesome-attention-mechanism-in-cv)
+- [awesome-attention-mechanism-in-cv](https://github.com/pprp/awesome-attention-mechanism-in-cv) 
+  - 注意力机制论文不定期更新中... 
   - Attention Modules such as se,cbam,non-local
   - Plug and Play Module such as ASPP
