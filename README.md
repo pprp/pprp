@@ -13,28 +13,16 @@
 
 ### You might be insterested
 
-- [yolov3-point](https://github.com/GiantPandaCV/yolov3-point) A modified version of [yolov3](https://github.com/ultralytics/yolov3)
-  - Add attention modules such as SE,CBAM
-  - Annotations in chinese
-- [SimpleCVReproduction](https://github.com/pprp/SimpleCVReproduction) Person insterests in Computer vision
-  - 即插即用模块总结：Plug and Play Modules 
-  - CenterNet with annotations
-  - simple_keypoint: the simplest keypoint detection using regression and heatmap
-  - tikz-cnn: using tikz to draw CNN architecture
-- [deep_sort_yolov3_pytorch](https://github.com/pprp/deep_sort_yolov3_pytorch) 
-  - Annotations in Chineses
-  - Implement SORT & Deep SORT
-  - Modified YOLOv3 Model
-- [voc2007_for_yolo_torch](https://github.com/pprp/voc2007_for_yolo_torch) 
-  - prepare dataset for VOC 
-  - scripts to convert VOC format into [yolov3](https://github.com/ultralytics/yolov3) format
-- [landmark_annotation](https://github.com/pprp/landmark_annotation)
-  - A label tools for landmark/keypoint
-  - using in project simple_keypoint(SimpleCVReproduction)
-- [captcha.Pytorch](https://github.com/pprp/captcha.Pytorch)
-  - A captcha recognition competition
-  - Many tricks draw from classification problem
-- [awesome-attention-mechanism-in-cv](https://github.com/pprp/awesome-attention-mechanism-in-cv) 
-  - 注意力机制论文不定期更新中... 
-  - Attention Modules such as se,cbam,non-local
-  - Plug and Play Module such as ASPP
+
+
+| repository                                                   | introduction                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [yolov3-point](https://github.com/GiantPandaCV/yolov3-point) | yolov3结合注意力机制的魔改版本                               |
+| [SimpleCVReproduction](https://github.com/pprp/SimpleCVReproduction) | 视觉任务复现测试以及整理，即插即用                           |
+| [Awesome-Attention-Mechanism-in-cv](https://github.com/pprp/awesome-attention-mechanism-in-cv) | 注意力机制论文收集整理,ViT整理                               |
+| [deep_sort_yolov3_pytorch](https://github.com/pprp/deep_sort_yolov3_pytorch) | deepsort+yolov3+darklabel实现多目标跟踪                      |
+| [voc2007_for_yolo_torch](https://github.com/pprp/voc2007_for_yolo_torch) | 适用于yolov3的转化脚本                                       |
+| [landmark_annotation](https://github.com/pprp/landmark_annotation) | 关键点标注软件，可开发[关键点识别算法](https://github.com/pprp/landmark_annotation) |
+| [captcha.Pytorch](https://github.com/pprp/captcha.Pytorch)   | 验证码识别项目                                               |
+| [pytorch-cifar-model-zoo](https://github.com/pprp/pytorch-cifar-model-zoo) | cifar模型库，包括CNN和Transformer架构模型                    |
+
