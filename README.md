@@ -26,3 +26,4 @@
 | [captcha.Pytorch](https://github.com/pprp/captcha.Pytorch)   | 验证码识别项目,竞赛解决方案一等奖方案。                      |
 | [pytorch-cifar-model-zoo](https://github.com/pprp/pytorch-cifar-model-zoo) | CIFAR模型库，包括CNN和Vision Transformer架构模型。           |
 | [SimplePaperReading](https://github.com/pprp/SimpleCVPaperAbstractReading) | 分享笔者全部的博客笔记，包括注意力、结构搜索、目标检测等方面。 |
+| [GoodsRecognition.MindSpore](https://github.com/pprp/GoodsRecognition.MindSpore) | 华为MindSpore商品识别竞赛一等奖方案。                        |
