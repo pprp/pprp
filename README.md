@@ -15,7 +15,7 @@
 
 
 
-| repository                                                   | introduction                                                 |
+| Repository                                                   | Introduction                                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [yolov3-point](https://github.com/GiantPandaCV/yolov3-point) | yolov3结合注意力机制的魔改版本, 适用于配合博客进行理解。     |
 | [SimpleCVReproduction](https://github.com/pprp/SimpleCVReproduction) | 视觉任务复现测试以及整理，即插即用模块，简单易懂的项目梳理。 |
@@ -27,3 +27,5 @@
 | [pytorch-cifar-model-zoo](https://github.com/pprp/pytorch-cifar-model-zoo) | CIFAR模型库，包括CNN和Vision Transformer架构模型。           |
 | [SimplePaperReading](https://github.com/pprp/SimpleCVPaperAbstractReading) | 分享笔者全部的博客笔记，包括注意力、结构搜索、目标检测等方面。 |
 | [GoodsRecognition.MindSpore](https://github.com/pprp/GoodsRecognition.MindSpore) | 华为MindSpore商品识别竞赛一等奖方案。                        |
+| [CVPR2022-NAS-competition-Track-1-3th-solution](https://github.com/pprp/CVPR2022-NAS-competition-Track-1-3th-solution) | 2022 CVPR NAS Workshop Track1: SuperNet Track 第三名         |
+
