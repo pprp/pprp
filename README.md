@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently working on Neural Architecture Search
 - :smile: I’m a member of :panda_face: [GiantPandaCV](https://github.com/GiantPandaCV) and [Openmmlab](https://github.com/open-mmlab)
-- 📫 How to reach me: wx:topeijie (请注明来意)
+- 📫 How to reach me: wx:topeijie
 - :package: CSDN: https://blog.csdn.net/DD_PP_JJ
 - :smiley: 博客园: https://www.cnblogs.com/pprp
 - 😇 zhihu: https://www.zhihu.com/people/peijieDong
