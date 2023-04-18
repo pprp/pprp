@@ -1,7 +1,7 @@
 ### Hi there 👋 this is pprp
 
 - 🌱 I’m currently working on Neural Architecture Search
-- :smile: I’m a member of :panda_face: [GiantPandaCV](https://github.com/GiantPandaCV) and [Openmmlab](https://github.com/open-mmlab)
+- :smile: I’m a member of :panda_face: [GiantPandaCV](https://github.com/GiantPandaCV).
 - 📫 How to reach me: wx:topeijie
 - :package: CSDN: https://blog.csdn.net/DD_PP_JJ
 - :smiley: cnblogs: https://www.cnblogs.com/pprp
@@ -28,3 +28,14 @@
 | [SimplePaperReading](https://github.com/pprp/SimpleCVPaperAbstractReading) | Collection of original Blog Post and Inductive Knowledge.    |
 | [GoodsRecognition.MindSpore](https://github.com/pprp/GoodsRecognition.MindSpore) | Solution of the **1st** Prize in MindSpore Goods Recognition Competition. |
 | [CVPR2022-NAS-competition-Track-1-3th-solution](https://github.com/pprp/CVPR2022-NAS-competition-Track-1-3th-solution) | Solution of the **3rd** Prize in 2022 CVPR NAS Workshop on SuperNet Track. |
+
+
+## Publications
+
+[Google Scholar](https://scholar.google.com/citations?user=TqS6s4gAAAAJ)
+
+- [Prior-Guided One-shot Neural Architecture Search](https://arxiv.org/pdf/2206.13329) CVPR Workshop 2022 
+- [RD-NAS: Enhancing One-shot Supernet Ranking Ability Via Ranking Distillation from Zero-cost Proxies](https://arxiv.org/pdf/2301.09850.pdf) ICASSP 2023
+- [Progressive Meta-Pooling Learning for Lightweight Image Classification Model](https://arxiv.org/pdf/2301.10038.pdf) ICASSP 2023 
+- [AutoRF: Auto Learning Receptive Fields with Spatial Pooling](https://link.springer.com/chapter/10.1007/978-3-031-27818-1_56) MMM 2022
+- [Review of one-shot neural architecture search](http://manu46.magtech.com.cn/ces/EN/abstract/abstract17574.shtml) Computer Engineering & Science 2022
