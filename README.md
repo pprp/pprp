@@ -9,7 +9,8 @@
 - :panda_face: 公众号1: GiantPandaCV 
 - :revolving_hearts: 公众号2: 神经网络架构搜索
 
-![pprp's github stats](https://github-readme-stats.vercel.app/api?username=pprp&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![pprp's github stats
+](https://github-readme-stats.vercel.app/api?username=pprp&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 ### You might be insterested
 
@@ -39,3 +40,4 @@
 - [Progressive Meta-Pooling Learning for Lightweight Image Classification Model](https://arxiv.org/pdf/2301.10038.pdf) ICASSP 2023 
 - [AutoRF: Auto Learning Receptive Fields with Spatial Pooling](https://link.springer.com/chapter/10.1007/978-3-031-27818-1_56) MMM 2022
 - [Review of one-shot neural architecture search](http://manu46.magtech.com.cn/ces/EN/abstract/abstract17574.shtml) Computer Engineering & Science 2022
+- [EMQ: Evolving Training-free Proxies for Automated Mixed Precision Quantization]() ICCV 2023
