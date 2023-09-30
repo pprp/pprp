@@ -3,11 +3,12 @@
 - 🌱 I’m currently working on Neural Architecture Search
 - :smile: I’m a member of :panda_face: [GiantPandaCV](https://github.com/GiantPandaCV).
 - 📫 How to reach me: wx:topeijie
-- :package: CSDN: https://blog.csdn.net/DD_PP_JJ
-- :smiley: cnblogs: https://www.cnblogs.com/pprp
-- 😇 zhihu: https://www.zhihu.com/people/peijieDong
+- :package: CSDN: [https://blog.csdn.net/DD_PP_JJ](https://blog.csdn.net/DD_PP_JJ)
+- :smiley: cnblogs: [https://www.cnblogs.com/pprp](https://www.cnblogs.com/pprp)
+- 😇 zhihu: [https://www.zhihu.com/people/peijieDong](https://www.zhihu.com/people/peijieDong)
 - :panda_face: 公众号1: GiantPandaCV 
 - :revolving_hearts: 公众号2: 神经网络架构搜索
+- 👤 More about me: [https://pprp.github.io](https://pprp.github.io) 
 
 ![pprp's github stats
 ](https://github-readme-stats.vercel.app/api?username=pprp&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
