@@ -1,14 +1,28 @@
 ### Hi there 👋 this is pprp
 
-- 🌱 I’m currently working on Neural Architecture Search
-- :smile: I’m a member of :panda_face: [GiantPandaCV](https://github.com/GiantPandaCV).
-- 📫 How to reach me: wx:topeijie
-- :package: CSDN: [https://blog.csdn.net/DD_PP_JJ](https://blog.csdn.net/DD_PP_JJ)
-- :smiley: cnblogs: [https://www.cnblogs.com/pprp](https://www.cnblogs.com/pprp)
-- 😇 zhihu: [https://www.zhihu.com/people/peijieDong](https://www.zhihu.com/people/peijieDong)
-- :panda_face: 公众号1: GiantPandaCV 
-- :revolving_hearts: 公众号2: 神经网络架构搜索
-- 👤 More about me: [https://pprp.github.io](https://pprp.github.io) 
+🥳 My name is Peijie Dong, English name is Peyton.
+
+🥰 I am a first-year Ph.D. student in Data Science and Analytics (DSA) at HKUST(GZ).
+
+🌱 I’m currently working on Model Compression including NAS and KD.
+
+😄 Also, I’m a member of 🐼 [GiantPandaCV](https://github.com/GiantPandaCV).
+
+📦 CSDN: [https://blog.csdn.net/DD_PP_JJ](https://blog.csdn.net/DD_PP_JJ)
+
+😃 cnblogs: [https://www.cnblogs.com/pprp](https://www.cnblogs.com/pprp)
+
+😇 zhihu: https://www.zhihu.com/people/peijieDong
+
+🐼 公众号1: GiantPandaCV
+
+💞 公众号2: 神经网络架构搜索
+
+👤 More about me: [https://pprp.github.io](https://pprp.github.io)
+
+📫 How to reach me: wx:topeijie
+
+If you find my research direction intriguing or share similar interests, I would be delighted to hear from you. Please don't hesitate to reach out, as I believe that together, we can create something truly remarkable and meaningful.
 
 ![pprp's github stats
 ](https://github-readme-stats.vercel.app/api?username=pprp&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
