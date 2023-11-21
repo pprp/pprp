@@ -1,12 +1,8 @@
 ### Hi there 👋 this is pprp
 
-🥳 My name is Peijie Dong, English name is Peyton.
+🥳 My name is Peijie Dong, I am a first-year Ph.D. student in Data Science and Analytic (DSA) at HKUST(GZ).
 
-🥰 I am a first-year Ph.D. student in Data Science and Analytics (DSA) at HKUST(GZ).
-
-🌱 I’m currently working on Model Compression including NAS and KD.
-
-😄 Also, I’m a member of 🐼 [GiantPandaCV](https://github.com/GiantPandaCV).
+😄 I’m a member of 🐼 [GiantPandaCV](https://github.com/GiantPandaCV).
 
 📦 CSDN: [https://blog.csdn.net/DD_PP_JJ](https://blog.csdn.net/DD_PP_JJ)
 
@@ -14,15 +10,14 @@
 
 😇 zhihu: https://www.zhihu.com/people/peijieDong
 
-🐼 公众号1: GiantPandaCV
-
-💞 公众号2: 神经网络架构搜索
+🐼 公众号: GiantPandaCV
 
 👤 More about me: [https://pprp.github.io](https://pprp.github.io)
 
 📫 How to reach me: wx:topeijie
 
-If you find my research direction intriguing or share similar interests, I would be delighted to hear from you. Please don't hesitate to reach out, as I believe that together, we can create something truly remarkable and meaningful.
+If you find my research direction intriguing or share similar interests, I would be delighted to hear from you. 
+Please don't hesitate to reach out, as I believe that together, we can create something truly remarkable and meaningful.
 
 ![pprp's github stats
 ](https://github-readme-stats.vercel.app/api?username=pprp&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
