@@ -50,4 +50,18 @@ Please don't hesitate to reach out, as I believe that together, we can create so
 - [Progressive Meta-Pooling Learning for Lightweight Image Classification Model](https://arxiv.org/pdf/2301.10038.pdf) ICASSP 2023 
 - [AutoRF: Auto Learning Receptive Fields with Spatial Pooling](https://link.springer.com/chapter/10.1007/978-3-031-27818-1_56) MMM 2022
 - [Review of one-shot neural architecture search](http://manu46.magtech.com.cn/ces/EN/abstract/abstract17574.shtml) Computer Engineering & Science 2022
-- [EMQ: Evolving Training-free Proxies for Automated Mixed Precision Quantization]() ICCV 2023
+- [EMQ: Evolving Training-free Proxies for Automated Mixed Precision Quantization](https://arxiv.org/abs/2307.10554) ICCV 2023
+
+## Tools 
+
+1. <img src="https://img.shields.io/badge/carbon_now-Share_Code_with_Others-brightgreen" alt="carbon.now.sh"> [carbon.now.sh](https://carbon.now.sh/)
+
+2. <img src="https://img.shields.io/badge/papers.cool-Paper_Summary_with_Kimi-brightgreen" alt="papers.cool"> [papers.cool](https://papers.cool/)
+
+3. <img src="https://img.shields.io/badge/poe.com-Aggregation_of_LLMs-brightgreen" alt="poe.com"> [poe.com](https://poe.com/)
+
+4. <img src="https://img.shields.io/badge/excalidraw.com-Smooth_Illustration_Drawer-brightgreen" alt="excalidraw"> [excalidraw](https://excalidraw.com/)
+
+5. <img src="https://img.shields.io/badge/sheilds.io-Badges_Creator-brightgreen" alt="sheilds.io"> [sheilds.io](https://shields.io/badges)
+
+6. <img src="https://img.shields.io/badge/perplexity.ai-AI_Search_Engine-brightgreen" alt="perplexity.ai"> [perplexity.ai](https://www.perplexity.ai/)
