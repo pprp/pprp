@@ -54,14 +54,9 @@ Please don't hesitate to reach out, as I believe that together, we can create so
 
 ## Tools 
 
-1. <img src="https://img.shields.io/badge/carbon_now-Share_Code_with_Others-brightgreen" alt="carbon.now.sh"> [carbon.now.sh](https://carbon.now.sh/)
-
-2. <img src="https://img.shields.io/badge/papers.cool-Paper_Summary_with_Kimi-brightgreen" alt="papers.cool"> [papers.cool](https://papers.cool/)
-
-3. <img src="https://img.shields.io/badge/poe.com-Aggregation_of_LLMs-brightgreen" alt="poe.com"> [poe.com](https://poe.com/)
-
-4. <img src="https://img.shields.io/badge/excalidraw.com-Smooth_Illustration_Drawer-brightgreen" alt="excalidraw"> [excalidraw](https://excalidraw.com/)
-
-5. <img src="https://img.shields.io/badge/sheilds.io-Badges_Creator-brightgreen" alt="sheilds.io"> [sheilds.io](https://shields.io/badges)
-
-6. <img src="https://img.shields.io/badge/perplexity.ai-AI_Search_Engine-brightgreen" alt="perplexity.ai"> [perplexity.ai](https://www.perplexity.ai/)
+- <img src="https://img.shields.io/badge/carbon_now-Share_Code_with_Others-brightgreen" alt="carbon.now.sh"> [carbon.now.sh](https://carbon.now.sh/)
+- <img src="https://img.shields.io/badge/papers.cool-Paper_Summary_with_Kimi-brightgreen" alt="papers.cool"> [papers.cool](https://papers.cool/)
+- <img src="https://img.shields.io/badge/poe.com-Aggregation_of_LLMs-brightgreen" alt="poe.com"> [poe.com](https://poe.com/)
+- <img src="https://img.shields.io/badge/excalidraw.com-Smooth_Illustration_Drawer-brightgreen" alt="excalidraw"> [excalidraw](https://excalidraw.com/)
+- <img src="https://img.shields.io/badge/sheilds.io-Badges_Creator-brightgreen" alt="sheilds.io"> [sheilds.io](https://shields.io/badges)
+- <img src="https://img.shields.io/badge/perplexity.ai-AI_Search_Engine-brightgreen" alt="perplexity.ai"> [perplexity.ai](https://www.perplexity.ai/)
