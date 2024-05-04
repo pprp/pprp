@@ -51,6 +51,7 @@ Please don't hesitate to reach out, as I believe that together, we can create so
 - [AutoRF: Auto Learning Receptive Fields with Spatial Pooling](https://link.springer.com/chapter/10.1007/978-3-031-27818-1_56) MMM 2022
 - [Review of one-shot neural architecture search](http://manu46.magtech.com.cn/ces/EN/abstract/abstract17574.shtml) Computer Engineering & Science 2022
 - [EMQ: Evolving Training-free Proxies for Automated Mixed Precision Quantization](https://arxiv.org/abs/2307.10554) ICCV 2023
+- Pruner-Zero: Evolving Symbolic Pruning Metric From Scratch for Large Language Models ICML 2024
 
 ## Tools 
 
