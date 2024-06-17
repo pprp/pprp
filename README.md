@@ -2,19 +2,28 @@
 
 🥳 My name is Peijie Dong, I am a first-year Ph.D. student in Data Science and Analytic (DSA) at HKUST(GZ).
 
-😄 I’m a member of 🐼 [GiantPandaCV](https://github.com/GiantPandaCV).
+😄 I’m a member of 🐼 [GiantPandaCV](https://github.com/GiantPandaCV). My bio 👤 is [https://pprp.github.io](https://pprp.github.io). 📫 Reach me at wechat: `topeijie`
 
-📦 CSDN: [https://blog.csdn.net/DD_PP_JJ](https://blog.csdn.net/DD_PP_JJ)
+<div align="center">
 
-😃 cnblogs: [https://www.cnblogs.com/pprp](https://www.cnblogs.com/pprp)
+<a href="https://blog.csdn.net/DD_PP_JJ">
+<img src="https://img.shields.io/badge/CSDN-Bloger-mediumpurple" alt="blog.csdn.net/DD_PP_JJ">
+</a>
 
-😇 zhihu: https://www.zhihu.com/people/peijieDong
+<a href="https://cnblogs.com/pprp">
+<img src="https://img.shields.io/badge/CNBLOGS-Bloger-lightsteelblue" alt="cnblogs.com/pprp">
+</a>
 
-🐼 公众号: GiantPandaCV
+<a href="https://www.zhihu.com/people/peijieDong">
+<img src="https://img.shields.io/badge/ZhiHu-Bloger-hotpink" alt="www.zhihu.com/people/peijieDong">
+</a>
 
-👤 More about me: [https://pprp.github.io](https://pprp.github.io)
+<a href="https://github.com/GiantPandaCV">
+<img src="https://img.shields.io/badge/Weixin-Account-aqua" alt="github.com/GiantPandaCV">
+</a>
 
-📫 How to reach me: wx:topeijie
+</div>
+
 
 If you find my research direction intriguing or share similar interests, I would be delighted to hear from you. 
 Please don't hesitate to reach out, as I believe that together, we can create something truly remarkable and meaningful.
