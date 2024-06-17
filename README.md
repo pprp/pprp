@@ -39,6 +39,7 @@ Please don't hesitate to reach out, as I believe that together, we can create so
 | [SimplePaperReading](https://github.com/pprp/SimpleCVPaperAbstractReading) | Collection of original Blog Post and Inductive Knowledge.    |
 | [GoodsRecognition.MindSpore](https://github.com/pprp/GoodsRecognition.MindSpore) | Solution of the **1st** Prize in MindSpore Goods Recognition Competition. |
 | [CVPR2022-NAS-competition-Track-1-3th-solution](https://github.com/pprp/CVPR2022-NAS-competition-Track-1-3th-solution) | Solution of the **3rd** Prize in 2022 CVPR NAS Workshop on SuperNet Track. |
+| [Pruner-Zero](https://github.com/pprp/Pruner-Zero) | Pruning Large Language Models in One-shot. |
 
 
 ## Publications
