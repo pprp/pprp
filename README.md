@@ -56,9 +56,43 @@ Please don't hesitate to reach out, as I believe that together, we can create so
 
 ## Tools 
 
-- <img src="https://img.shields.io/badge/carbon_now-Share_Code_with_Others-brightgreen" alt="carbon.now.sh"> [carbon.now.sh](https://carbon.now.sh/)
-- <img src="https://img.shields.io/badge/papers.cool-Paper_Summary_with_Kimi-brightgreen" alt="papers.cool"> [papers.cool](https://papers.cool/)
-- <img src="https://img.shields.io/badge/poe.com-Aggregation_of_LLMs-brightgreen" alt="poe.com"> [poe.com](https://poe.com/)
-- <img src="https://img.shields.io/badge/excalidraw.com-Smooth_Illustration_Drawer-brightgreen" alt="excalidraw"> [excalidraw](https://excalidraw.com/)
-- <img src="https://img.shields.io/badge/sheilds.io-Badges_Creator-brightgreen" alt="sheilds.io"> [sheilds.io](https://shields.io/badges)
-- <img src="https://img.shields.io/badge/perplexity.ai-AI_Search_Engine-brightgreen" alt="perplexity.ai"> [perplexity.ai](https://www.perplexity.ai/)
+
+<div align="center">
+  <a href="https://carbon.now.sh"> 
+    <img src="https://img.shields.io/badge/carbon_now-Share_Code_with_Others-brightgreen" alt="carbon.now.sh">
+  </a>
+  <a href="https://papers.cool/">
+    <img src="https://img.shields.io/badge/papers.cool-Paper_Summary_with_Kimi-yellow" alt="papers.cool">
+  </a>
+  <a href="https://poe.com/">
+    <img src="https://img.shields.io/badge/poe.com-Aggregation_of_LLMs-blue" alt="poe.com">
+  </a>
+  <a href="https://excalidraw.com/">
+    <img src="https://img.shields.io/badge/excalidraw.com-Smooth_Illustration_Drawer-pink" alt="excalidraw">
+  </a>
+  <a href="https://shields.io/badges">
+    <img src="https://img.shields.io/badge/shields.io-Badges_Creator-orange" alt="shields.io">
+  </a>
+  <a href="https://www.perplexity.ai/">
+    <img src="https://img.shields.io/badge/perplexity.ai-AI_Search_Engine-purple" alt="perplexity.ai">
+  </a>
+  <a href="https://geekcard.app">
+    <img src="https://img.shields.io/badge/geekcard-Share_Text_with_Picture-lightsteelblue" alt="geekcard.app">
+  </a>
+  <a href="https://clipdrop.co/">
+    <img src="https://img.shields.io/badge/clipdrop-Edit_Image_with_AI-yellowgreen" alt="clipdrop.co">
+  </a>
+  <a href="https://acronymify.com/">
+    <img src="https://img.shields.io/badge/acronoymify-Generate_Possible_Acronyms-silver" alt="acronymify.com">
+  </a>
+  <a href="https://www.calmlywriter.com/online/">
+    <img src="https://img.shields.io/badge/calmlywriter-Online_Markdown_Writer-peru" alt="calmlywriter.com">
+  </a>
+  <a href="https://qwerty.kaiyi.cool/">
+    <img src="https://img.shields.io/badge/Qwerty_learner-Online_Typer-navy" alt="qwery.kaiyi.cool">
+  </a>
+  <a href="https://dazidazi.com/">
+    <img src="https://img.shields.io/badge/Dazidazi-Learn_dazi-seagreen" alt="dazidazi.com">
+  </a>
+  
+</div>
