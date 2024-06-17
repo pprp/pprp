@@ -2,9 +2,13 @@
 
 🥳 My name is Peijie Dong, I am a first-year Ph.D. student in Data Science and Analytic (DSA) at HKUST(GZ).
 
-😄 I’m a member of 🐼 [GiantPandaCV](https://github.com/GiantPandaCV). My bio 👤 is [https://pprp.github.io](https://pprp.github.io). 📫 Reach me at wechat: `topeijie`
+😄 I’m a member of 🐼 [GiantPandaCV](https://github.com/GiantPandaCV). My bio 👤 is [https://pprp.github.io](https://pprp.github.io). 📫 Reach me at wechat: `topeijie`.
 
 <div align="center">
+
+<a href="https://pprp.github.io">
+<img src="https://img.shields.io/badge/Bio-github_io-navy" alt="pprp.github.io">
+</a>
 
 <a href="https://blog.csdn.net/DD_PP_JJ">
 <img src="https://img.shields.io/badge/CSDN-Bloger-mediumpurple" alt="blog.csdn.net/DD_PP_JJ">
@@ -22,14 +26,24 @@
 <img src="https://img.shields.io/badge/Weixin-Account-aqua" alt="github.com/GiantPandaCV">
 </a>
 
+<a href="https://scholar.google.com/citations?user=TqS6s4gAAAAJ">
+<img src="https://img.shields.io/badge/Google_Scholar-Peijie_Dong-maroon" alt="scholar.google.com/citations?user=TqS6s4gAAAAJ">
+</a>
+
 </div>
 
 
 If you find my research direction intriguing or share similar interests, I would be delighted to hear from you. 
-Please don't hesitate to reach out, as I believe that together, we can create something truly remarkable and meaningful.
+Please don't hesitate to reach out.
 
-![pprp's github stats
-](https://github-readme-stats.vercel.app/api?username=pprp&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+<div align="center">
+<a href="https://github.com/pprp">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=pprp&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
+</a>
+</div>
+
+
 
 ### You might be insterested
 
@@ -53,15 +67,30 @@ Please don't hesitate to reach out, as I believe that together, we can create so
 
 ## Publications
 
-[Google Scholar](https://scholar.google.com/citations?user=TqS6s4gAAAAJ)
 
-- [Prior-Guided One-shot Neural Architecture Search](https://arxiv.org/pdf/2206.13329) CVPR Workshop 2022 
-- [RD-NAS: Enhancing One-shot Supernet Ranking Ability Via Ranking Distillation from Zero-cost Proxies](https://arxiv.org/pdf/2301.09850.pdf) ICASSP 2023
-- [Progressive Meta-Pooling Learning for Lightweight Image Classification Model](https://arxiv.org/pdf/2301.10038.pdf) ICASSP 2023 
-- [AutoRF: Auto Learning Receptive Fields with Spatial Pooling](https://link.springer.com/chapter/10.1007/978-3-031-27818-1_56) MMM 2022
-- [Review of one-shot neural architecture search](http://manu46.magtech.com.cn/ces/EN/abstract/abstract17574.shtml) Computer Engineering & Science 2022
-- [EMQ: Evolving Training-free Proxies for Automated Mixed Precision Quantization](https://arxiv.org/abs/2307.10554) ICCV 2023
-- [Pruner-Zero: Evolving Symbolic Pruning Metric From Scratch for Large Language Models](https://arxiv.org/abs/2406.02924v1) ICML 2024
+<div align="center">
+  <a href="https://arxiv.org/pdf/2206.13329">
+    <img src="https://img.shields.io/badge/CVPR_2022-Prior_Guided_One_shot_Neural_Architecture_Search-teal" alt="Prior-Guided One-shot Neural Architecture Search">
+  </a>
+  <a href="https://arxiv.org/pdf/2301.09850.pdf">
+    <img src="https://img.shields.io/badge/ICASSP_2023-RD_NAS_Enhancing_One_shot_Supernet_Ranking_Ability-olive" alt="RD-NAS: Enhancing One-shot Supernet Ranking Ability Via Ranking Distillation from Zero-cost Proxies">
+  </a>
+  <a href="https://arxiv.org/pdf/2301.10038.pdf">
+    <img src="https://img.shields.io/badge/ICASSP_2023-Progressive_Meta_Pooling_Learning_for_Lightweight_Image_Classification_Model-maroon" alt="Progressive Meta-Pooling Learning for Lightweight Image Classification Model">
+  </a>
+  <a href="https://link.springer.com/chapter/10.1007/978-3-031-27818-1_56">
+    <img src="https://img.shields.io/badge/MMM_2022-AutoRF__Auto_Learning_Receptive_Fields_with_Spatial_Pooling-navy" alt="AutoRF: Auto Learning Receptive Fields with Spatial Pooling">
+  </a>
+  <a href="http://manu46.magtech.com.cn/ces/EN/abstract/abstract17574.shtml">
+    <img src="https://img.shields.io/badge/Computer_Engineering__Science_2022-Review_of_one_shot_neural_architecture_search-purple" alt="Review of one-shot neural architecture search">
+  </a>
+  <a href="https://arxiv.org/abs/2307.10554">
+    <img src="https://img.shields.io/badge/ICCV_2023-EMQ__Evolving_Training_free_Proxies_for_Automated_Mixed_Precision_Quantization-orange" alt="EMQ: Evolving Training-free Proxies for Automated Mixed Precision Quantization">
+  </a>
+  <a href="https://arxiv.org/abs/2406.02924v1">
+    <img src="https://img.shields.io/badge/ICML_2024-Pruner_Zero__Evolving_Symbolic_Pruning_Metric_From_Scratch_for_Large_Language_Models-crimson" alt="Pruner-Zero: Evolving Symbolic Pruning Metric From Scratch for Large Language Models">
+  </a>
+</div>
 
 ## Tools 
 
