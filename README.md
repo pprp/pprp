@@ -1,4 +1,6 @@
-### Hi there 👋 this is pprp
+<div align="center">
+<h1>Hi there 👋 this is pprp</h1>
+</div>
 
 🥳 My name is Peijie Dong, I am a first-year Ph.D. student in Data Science and Analytic (DSA) at HKUST(GZ).
 
@@ -44,8 +46,10 @@ Please don't hesitate to reach out.
 </div>
 
 
+<div align='center'>
+  <h2>You might be insterested</h2>  
+</div>
 
-### You might be insterested
 
 
 
@@ -65,8 +69,9 @@ Please don't hesitate to reach out.
 | [Pruner-Zero](https://github.com/pprp/Pruner-Zero) | Pruning Large Language Models in One-shot. |
 
 
-## Publications
-
+<div align='center'>
+<h2>Publications</h2>
+</div>
 
 <div align="center">
   <a href="https://arxiv.org/pdf/2206.13329">
@@ -92,8 +97,9 @@ Please don't hesitate to reach out.
   </a>
 </div>
 
-## Tools 
-
+<div align='center'>
+<h2>Tools</h2>
+</div>
 
 <div align="center">
   <a href="https://carbon.now.sh"> 
