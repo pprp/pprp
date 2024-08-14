@@ -143,5 +143,9 @@ Please don't hesitate to reach out.
   <a href="https://dazidazi.com/">
     <img src="https://img.shields.io/badge/Dazidazi-Learn_dazi-seagreen" alt="dazidazi.com">
   </a>
+  <a href="https://jina.ai/reader/">
+<img src="https://img.shields.io/badge/Jina-LLMInput-lightblue" alt="dazidazi.com">
+  </a>
+
   
 </div>
