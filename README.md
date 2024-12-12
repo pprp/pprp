@@ -60,6 +60,7 @@ Please don't hesitate to reach out.
 
 | Repository                                                   | Introduction                                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Pruner-Zero](https://github.com/pprp/Pruner-Zero) | Pruning Large Language Models in One-shot. |
 | [yolov3-point](https://github.com/GiantPandaCV/yolov3-point) | Infrared Small Object Detection based on Yolov3.             |
 | [SimpleCVReproduction](https://github.com/pprp/SimpleCVReproduction) | Replication of simple CV projects including Keypoint Detection, Classification, etc. |
 | [Awesome-Attention-Mechanism-in-cv](https://github.com/pprp/awesome-attention-mechanism-in-cv) | Awesome list of Attention and Plug&Play Modules in CV.       |
@@ -71,7 +72,6 @@ Please don't hesitate to reach out.
 | [SimplePaperReading](https://github.com/pprp/SimpleCVPaperAbstractReading) | Collection of original Blog Post and Inductive Knowledge.    |
 | [GoodsRecognition.MindSpore](https://github.com/pprp/GoodsRecognition.MindSpore) | Solution of the **1st** Prize in MindSpore Goods Recognition Competition. |
 | [CVPR2022-NAS-competition-Track-1-3th-solution](https://github.com/pprp/CVPR2022-NAS-competition-Track-1-3th-solution) | Solution of the **3rd** Prize in 2022 CVPR NAS Workshop on SuperNet Track. |
-| [Pruner-Zero](https://github.com/pprp/Pruner-Zero) | Pruning Large Language Models in One-shot. |
 
 
 <div align='center'>
