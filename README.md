@@ -51,54 +51,11 @@ Please don't hesitate to reach out.
 </div>
 
 
-<div align='center'>
-<h2>Tools</h2>
-</div>
-
-<div align="center">
-  <a href="https://carbon.now.sh"> 
-    <img src="https://img.shields.io/badge/carbon_now-Share_Code_with_Others-brightgreen" alt="carbon.now.sh">
-  </a>
-  <a href="https://papers.cool/">
-    <img src="https://img.shields.io/badge/papers.cool-Paper_Summary_with_Kimi-yellow" alt="papers.cool">
-  </a>
-  <a href="https://poe.com/">
-    <img src="https://img.shields.io/badge/poe.com-Aggregation_of_LLMs-blue" alt="poe.com">
-  </a>
-  <a href="https://excalidraw.com/">
-    <img src="https://img.shields.io/badge/excalidraw.com-Smooth_Illustration_Drawer-pink" alt="excalidraw">
-  </a>
-  <a href="https://shields.io/badges">
-    <img src="https://img.shields.io/badge/shields.io-Badges_Creator-orange" alt="shields.io">
-  </a>
-  <a href="https://www.perplexity.ai/">
-    <img src="https://img.shields.io/badge/perplexity.ai-AI_Search_Engine-purple" alt="perplexity.ai">
-  </a>
-  <a href="https://geekcard.app">
-    <img src="https://img.shields.io/badge/geekcard-Share_Text_with_Picture-lightsteelblue" alt="geekcard.app">
-  </a>
-  <a href="https://clipdrop.co/">
-    <img src="https://img.shields.io/badge/clipdrop-Edit_Image_with_AI-yellowgreen" alt="clipdrop.co">
-  </a>
-  <a href="https://acronymify.com/">
-    <img src="https://img.shields.io/badge/acronoymify-Generate_Possible_Acronyms-silver" alt="acronymify.com">
-  </a>
-  <a href="https://www.calmlywriter.com/online/">
-    <img src="https://img.shields.io/badge/calmlywriter-Online_Markdown_Writer-peru" alt="calmlywriter.com">
-  </a>
-  <a href="https://qwerty.kaiyi.cool/">
-    <img src="https://img.shields.io/badge/Qwerty_learner-Online_Typer-navy" alt="qwery.kaiyi.cool">
-  </a>
-  <a href="https://dazidazi.com/">
-    <img src="https://img.shields.io/badge/Dazidazi-Learn_dazi-seagreen" alt="dazidazi.com">
-  </a>
-  <a href="https://jina.ai/reader/">
-<img src="https://img.shields.io/badge/Jina-LLMInput-lightblue" alt="https://jina.ai/reader/">
-  </a>
-  <a href="https://llm-calc.rayfernando.ai/">
-  <img src="https://img.shields.io/badge/LLM_Mem_Calc-purple" alt="https://llm-calc.rayfernando.ai/">
-  </a>
- <a href="https://markmap.js.org">
-  <img src="https://img.shields.io/badge/markmap-yellow" alt="https://markmap.js.org">
-  </a>
-</div>
+| 类别 | 工具 |
+|---|---|
+| 写作 / 文档 / 学术 | <a href="https://www.overleaf.com"><img src="https://img.shields.io/badge/Overleaf-Online_LaTeX_Editor-47A141?style=flat-square" alt="Overleaf"/></a> <a href="https://www.calmlywriter.com/online/"><img src="https://img.shields.io/badge/calmlywriter-Online_Markdown_Writer-peru?style=flat-square" alt="calmlywriter"/></a> <a href="https://carbon.now.sh"><img src="https://img.shields.io/badge/carbon.now.sh-Share_Code_with_Others-brightgreen?style=flat-square" alt="carbon.now.sh"/></a> <a href="https://geekcard.app"><img src="https://img.shields.io/badge/geekcard-Share_Text_with_Picture-lightsteelblue?style=flat-square" alt="geekcard.app"/></a> <a href="https://acronymify.com"><img src="https://img.shields.io/badge/acronymify-Generate_Possible_Acronyms-silver?style=flat-square" alt="acronymify"/></a> |
+| AI 辅助（搜索 / 摘要 / 对话） | <a href="https://chat.openai.com"><img src="https://img.shields.io/badge/ChatGPT-Code_%26_Paper_Assistant-00A67E?style=flat-square" alt="ChatGPT"/></a> <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-Code_%26_Paper_Assistant-4285F4?style=flat-square" alt="Gemini"/></a> <a href="https://poe.com"><img src="https://img.shields.io/badge/poe.com-Aggregation_of_LLMs-blue?style=flat-square" alt="poe.com"/></a> <a href="https://www.perplexity.ai"><img src="https://img.shields.io/badge/perplexity.ai-AI_Search_Engine-purple?style=flat-square" alt="perplexity.ai"/></a> <a href="https://papers.cool"><img src="https://img.shields.io/badge/papers.cool-Paper_Summary_with_Kimi-yellow?style=flat-square" alt="papers.cool"/></a> |
+| 开发 / 编码 / Vibe Coding | <a href="https://cursor.sh"><img src="https://img.shields.io/badge/Cursor-Vibe_Coding_IDE-00B4FF?style=flat-square" alt="Cursor"/></a> <a href="https://claude.ai/code"><img src="https://img.shields.io/badge/Claude_Code-CLI_Copilot-DC382D?style=flat-square" alt="Claude Code"/></a> <a href="https://github.com/google/generative-ai-python"><img src="https://img.shields.io/badge/Gemini_CLI-Terminal_Copilot-4285F4?style=flat-square" alt="Gemini CLI"/></a> <a href="https://llm-calc.rayfernando.ai"><img src="https://img.shields.io/badge/LLM_Mem_Calc-purple?style=flat-square" alt="LLM_Mem_Calc"/></a> <a href="https://jina.ai/reader/"><img src="https://img.shields.io/badge/Jina-LLMInput-lightblue?style=flat-square" alt="Jina"/></a> |
+| 知识管理 / 笔记 | <a href="https://www.notion.so"><img src="https://img.shields.io/badge/Notion-Knowledge_Base-black?style=flat-square" alt="Notion"/></a> <a href="https://markmap.js.org"><img src="https://img.shields.io/badge/markmap-yellow?style=flat-square" alt="markmap"/></a> |
+| 绘图 / 视觉 / 设计 | <a href="https://excalidraw.com"><img src="https://img.shields.io/badge/excalidraw-Smooth_Illustration_Drawer-pink?style=flat-square" alt="excalidraw"/></a> <a href="https://clipdrop.co"><img src="https://img.shields.io/badge/clipdrop-Edit_Image_with_AI-yellowgreen?style=flat-square" alt="clipdrop"/></a> <a href="https://shields.io/badges"><img src="https://img.shields.io/badge/shields.io-Badges_Creator-orange?style=flat-square" alt="shields.io"/></a> |
+| 学习 / 打字 | <a href="https://qwerty.kaiyi.cool"><img src="https://img.shields.io/badge/Qwerty_Learner-Online_Typer-navy?style=flat-square" alt="Qwerty Learner"/></a> <a href="https://dazidazi.com"><img src="https://img.shields.io/badge/Dazidazi-Learn_dazi-seagreen?style=flat-square" alt="dazidazi"/></a> |
