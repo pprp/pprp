@@ -4,7 +4,7 @@
 
 🥳 My name is Peijie Dong, I am a 3rd year Ph.D. student in Data Science and Analytic (DSA) at HKUST(GZ).
 
-My bio 👤 is [https://pprp.github.io](https://pprp.github.io). 📫 Reach me at wechat: `topeijie`.
+My bio 👤 is [https://pprp.github.io](https://pprp.github.io). 
 
 <div align="center">
 
