@@ -39,12 +39,17 @@ If you find my research direction intriguing or share similar interests, I would
 Please don't hesitate to reach out.
 
 
-<div align="center">
+<!-- <div align="center">
 <a href="https://github.com/pprp">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=pprp&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
 </a>
+</div> -->
 
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pprp&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pprp&theme=apprentice&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pprp&theme=apprentice)
+
+
 
 
 | Type | Tools |
