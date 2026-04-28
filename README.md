@@ -45,9 +45,11 @@ Please don't hesitate to reach out.
 </a>
 </div> -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pprp&theme=apprentice)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pprp&theme=apprentice&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pprp&theme=apprentice)
+<p align="center">
+  <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pprp&theme=apprentice" alt="GitHub stats" />
+  <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pprp&theme=apprentice&utcOffset=8" alt="Commit activity by hour" />
+  <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pprp&theme=apprentice" alt="Top languages by commit" />
+</p>
 
 
 
