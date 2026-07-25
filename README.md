@@ -2,7 +2,7 @@
 <h1>Hi there 👋 this is pprp</h1>
 </div>
 
-🥳 My name is Peijie Dong, I am a 3rd year Ph.D. student in Data Science and Analytic (DSA) at HKUST(GZ).
+🥳 My name is Peijie Dong, I am the final year Ph.D. student in Data Science and Analytic (DSA) at HKUST(GZ).
 
 My bio 👤 is [https://pprp.github.io](https://pprp.github.io). 
 
